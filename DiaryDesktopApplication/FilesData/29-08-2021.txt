@@ -1,0 +1,5 @@
+1. In Visual Studio Solution Explorer, right-click the solution node and then select Rename from          the context menu.
+
+2. Type the new name for your solution.
+
+3. Type the new name for your solution.

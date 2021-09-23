@@ -1,0 +1,24 @@
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.Form1.resources
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.Form2.resources
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.Properties.Resources.resources
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.exe
+C:\Users\MANISH\Documents\Visual Studio 2010\Projects\MDI\MDI\obj\x86\Debug\MDI.pdb
+C:\Users\DELL\Downloads\MDI\MDI\bin\Debug\MDI.exe
+C:\Users\DELL\Downloads\MDI\MDI\bin\Debug\MDI.pdb
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.Properties.Resources.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.exe
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.pdb
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.AddForm.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.EditForm.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.DeleteForm.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.MainPage.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.SearchForm.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.Login.resources
+C:\Users\DELL\Downloads\MDI\MDI\obj\x86\Debug\MDI.Feedback.resources
